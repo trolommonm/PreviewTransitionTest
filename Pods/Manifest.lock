@@ -1,0 +1,16 @@
+PODS:
+  - PreviewTransition (3.0.1)
+
+DEPENDENCIES:
+  - PreviewTransition
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PreviewTransition
+
+SPEC CHECKSUMS:
+  PreviewTransition: 626eb437009d04e24d177d2d1e65de2a705829ed
+
+PODFILE CHECKSUM: 8e4df5c500f76d4a24a6fcd1bf6175b10288562d
+
+COCOAPODS: 1.5.3
